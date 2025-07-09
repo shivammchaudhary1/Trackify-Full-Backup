@@ -1,0 +1,14 @@
+.calendarRangeBox {
+  display: inline-block;
+  position: relative;
+}
+
+.calendarElement {
+  /* border: 1px solid blue; */
+  position: absolute;
+  left: 0;
+  transform: translateX(-63%);
+  top: 0;
+  border: 1px solid #ededed;
+  z-index: 999;
+}

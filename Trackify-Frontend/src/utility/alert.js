@@ -1,0 +1,3 @@
+const ALERT_TIMEOUT = 6000;
+
+export { ALERT_TIMEOUT };

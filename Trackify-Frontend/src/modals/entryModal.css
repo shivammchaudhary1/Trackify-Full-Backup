@@ -1,0 +1,13 @@
+/* Add this CSS in your stylesheet */
+.no-clock-icon .MuiSvgIcon-root {
+    display: none; /* Hide the clock icon */
+}
+  
+/* Add this CSS in your stylesheet */
+.custom-time-picker.MuiFormControl-root {
+    width: 100px !important; /* Set the width and use !important to override existing styles */
+  }
+  
+  .custom-time-picker.MuiInputLabel-root {
+    font-size: 12px !important; /* Adjust label font size if needed */
+  }
